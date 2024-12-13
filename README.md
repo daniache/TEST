@@ -4,6 +4,8 @@ This project involves designing and implementing an information system for a Vet
 
 Note: this project does not have a web interface.
 
+![pet list](https://github.com/user-attachments/assets/a166c7dd-23dd-41ee-90e7-11a80d4ddeba)
+
 TECHNOLOGIES USED
 
 1. Programming and Database Tools:
@@ -61,7 +63,7 @@ System-Wide Functionalities:
 How to invoke the application
 
   1. Set up the database:
-      - Create the database schema using the provided SQL scripts (groupA14.sql).
+      - Create the database schema using the SQL scripts in the folder.
       - Use an SQL client such as Oracle SQL Developer to run the scripts.
       - Populate the database with sample data using INSERT statements.
 
