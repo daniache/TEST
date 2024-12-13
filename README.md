@@ -4,7 +4,9 @@ This project involves designing and implementing an information system for a Vet
 
 Note: this project does not have a web interface.
 
-![pet list](https://github.com/user-attachments/assets/a166c7dd-23dd-41ee-90e7-11a80d4ddeba)
+![pet list](https://github.com/user-attachments/assets/a166c7dd-23dd-41ee-90e7-11a80d4ddeba) 
+
+![appt](https://github.com/user-attachments/assets/f13158b4-b877-4fd3-a247-4c93d541203a)
 
 TECHNOLOGIES USED
 
